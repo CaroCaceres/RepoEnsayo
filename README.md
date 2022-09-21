@@ -9,4 +9,4 @@ Aprendiendo a resolver conflictos en git
 Carolina Caceres
 
 Oscar Morales
-editando de nuevo el archivo
+
